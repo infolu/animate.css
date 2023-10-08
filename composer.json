@@ -1,0 +1,10 @@
+{
+    "name": "infolu/animate",
+    "description": "Descrição do seu pacote",
+    "version": "1.0.0",
+    "require": {
+        "php": "^7.0",
+        "dependencia1": "^1.0",
+        "dependencia2": "^2.0"
+    }
+}
