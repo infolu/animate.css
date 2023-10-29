@@ -1,13 +1,12 @@
 {
     "name": "infolu/animate.css",
-    "description": "Descrição do seu pacote",
-    "version": "1.0.0",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Seu Nome",
-            "email": "seu-email@example.com"
+    "description": "Descrição do seu projeto",
+    "require": {
+        "alguma-dependencia": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SeuNamespace\\": "src/"
         }
-    ],
-   "require": {}
+    }
 }
