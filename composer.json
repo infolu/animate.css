@@ -1,17 +1,7 @@
 {
   "name": "infolu/animate.css",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "keywords": [
-    "css",
-    "js",
-    "sass",
-    "mobile-first",
-    "responsive",
-    "front-end",
-    "framework",
-    "web"
-  ],
-  "homepage": "https://getbootstrap.com/",
+  "license": "MIT",
   "authors": [
     {
       "name": "Mark Otto",
@@ -22,11 +12,9 @@
       "email": "jacobthornton@gmail.com"
     }
   ],
-  "support": {
-    "issues": "https://github.com/twbs/bootstrap/issues"
-  },
-  "license": "MIT",
-  "replace": {
-    "infolu/animate.css": "self.version"
+  "autoload": {
+    "psr-4": {
+      "Infolu\\AnimateCss\\": "src/"
+    }
   }
 }
