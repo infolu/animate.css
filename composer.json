@@ -1,5 +1,5 @@
 {
-  "name": "infolu/animate",
+  "name": "infolu/animate.css",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
@@ -27,6 +27,6 @@
   },
   "license": "MIT",
   "replace": {
-    "infolu/animate": "self.version"
+    "infolu/animate.css": "self.version"
   }
 }
