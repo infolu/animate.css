@@ -1,20 +1,12 @@
 {
-  "name": "infolu/animate.css",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Mark Otto",
-      "email": "markdotto@gmail.com"
-    },
-    {
-      "name": "Jacob Thornton",
-      "email": "jacobthornton@gmail.com"
-    }
-  ],
-  "autoload": {
-    "psr-4": {
-      "Infolu\\AnimateCss\\": "src/"
-    }
-  }
+    "name": "infolu/animate.css",
+    "description": "Descrição do seu pacote",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seu Nome",
+            "email": "seu-email@example.com"
+        }
+    ],
 }
